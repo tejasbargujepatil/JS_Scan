@@ -61,12 +61,16 @@ if __name__ == "__main__":
 Contact Information
 ## Contact Information
 
-You can reach out to me via:
+#You can reach out to me via:-
 
-<div>
-    <a href="https://www.linkedin.com/in/tejas-barguje-patil"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30"></a>
-    <a href="https://www.instagram.com/tejasbargujepatil"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30"></a>
-</div>
+## Contact Information
+
+You can reach out to me on:
+
+[![Instagram](https://img.shields.io/badge/Instagram-Tejas_Barguje_Patil-9cf?logo=instagram)](https://www.instagram.com/Tejas_Barguje_Patil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejas_Barguje_Patil-blue?logo=linkedin)](https://www.linkedin.com/in/tejasbargujepatil/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Tejas_Barguje_Patil-25D366?logo=whatsapp)](https://wa.me/918087147136)
+
 
 
 
