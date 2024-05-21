@@ -1,4 +1,7 @@
 
+# 📝License 
+![GitHub](https://img.shields.io/github/license/tejasbargujepatil/Vulnfinder) 
+![GitHub last commit](https://img.shields.io/github/last-commit/tejasbargujepatil/MalwareGuard)
 
 ```
 # Website JavaScript Extraction and Sensitive Information Scanner
@@ -59,8 +62,6 @@ Developed by Tejas Barguje Patil, this toolkit enables users to extract and scan
 You can reach out to me via:
 
 [<img src="https://img.shields.io/badge/Instagram-Tejas_Barguje_Patil-9cf?logo=instagram" height="30" />](https://www.instagram.com/Tejas_Barguje_Patil/) [<img src="https://img.shields.io/badge/LinkedIn-Tejas_Barguje_Patil-blue?logo=linkedin" height="30" />](https://www.linkedin.com/in/tejas-barguje-79b51428a/) [<img src="https://img.shields.io/badge/WhatsApp-Tejas_Barguje_Patil-25D366?logo=whatsapp" height="30" />](https://wa.me/918087147136)
+[![Contact](https://img.shields.io/badge/Contact-Tejas_Barguje_Patil-red?logo=gmail)](mailto:hackersdaddy826@gmail.com)
 
-## License
 
-This project is the intellectual property of Tejas Barguje Patil and is not currently licensed under the MIT License. Please refer to Tejas Barguje Patil for any questions regarding the usage, distribution, or modification of the codebase.
-```
